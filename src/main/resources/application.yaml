@@ -1,12 +1,15 @@
 spring:
   application:
-            name: secure-public-rest-api-mobile-web-application
+    name: secure-public-rest-api-mobile-web-application
+
   security:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: http://secure
-
+          issuer-uri: https://dev-ar51zhzxhw8v8cp2.us.auth0.com/
 
 server:
   port: 8081
+
+auth0:
+  audience: http://secure
