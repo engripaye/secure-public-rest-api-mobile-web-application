@@ -16,6 +16,6 @@ public class ApiController {
 
     @GetMapping("/secure")
     public Map<String, String> secureEndPoint() {
-        return Map.of("message", "This is a secure endpoint, Valid JWT required");
+        return Map.of("message", "This is a secure endpoint, Your JWT token was accepted, YOU ARE WELCOME !");
     }
 }
