@@ -4,6 +4,8 @@ A secure, scalable, and production-ready REST API designed for public access via
 
 ---
 
+<img width="1024" height="1024" alt="secure public api mobile layout" src="https://github.com/user-attachments/assets/f1a0ff68-7e1e-4ca9-b626-b048ce2f7cda" />
+
 ## 📖 Table of Contents
 
 - [📖 Table of Contents](#-table-of-contents)
